@@ -874,3 +874,289 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-23.57.02:242][215]SourceControl: Commited [main 5604432] test.
 [2021.07.06-23.57.02:281][216]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2021.07.06-23.57.02:282][216]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.06-23.57.31:514][570]LogSlate: Took 0.014650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Content: 'D:/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:080][335]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.27:191][335]EditorErrors: Warning: No assets to check in!
+[2021.07.06-23.59.28:848][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Content: 'D:/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:164][622]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.06-23.59.39:274][622]EditorErrors: Warning: No assets to check in!
+[2021.07.07-00.00.23:353][ 66]Cmd: DUPLICATE
+[2021.07.07-00.00.23:353][ 66]Cmd: ACTOR DUPLICATE
+[2021.07.07-00.00.31:195][811]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.07.07-00.00.31:226][811]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.07.07-00.00.33:265][ 34]LogContentBrowser: Attempting asset rename: NewMaterial -> Testmast
+[2021.07.07-00.00.33:383][ 34]LogContentBrowser: End creating deferred item NewMaterial
+[2021.07.07-00.00.38:070][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Testmast" FILE="C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Blueprints/Testmast.uasset" SILENT=true
+[2021.07.07-00.00.38:075][511]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TestmastA73568FF4AE12ED9043EABA2A5428BB3.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Blueprints/Testmast.uasset'
+[2021.07.07-00.00.38:446][511]AssetCheck: New page: Asset Save: Testmast
+[2021.07.07-00.00.38:446][511]LogContentValidation: Display: Validating Material /Game/TopDownBP/Blueprints/Testmast.Testmast
+[2021.07.07-00.00.44:726][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.07.07-00.00.46:335][247]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.07-00.00.46:608][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.07.07-00.00.46:633][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.07.07-00.00.46:637][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.07-00.00.47:088][247]SourceControl: Error: Updated 0 paths from the index
+[2021.07.07-00.00.47:269][247]SourceControl: rm 'Game/Content/TopDownBP/Blueprints/Transparent.uasset'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Content: 'D:/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:671][963]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.00.53:878][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Testmast" FILE="C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Blueprints/Testmast.uasset" SILENT=true
+[2021.07.07-00.00.53:880][963]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TestmastD3B1FB2C4DA228E8C9111C9180402F58.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Blueprints/Testmast.uasset'
+[2021.07.07-00.01.13:073][963]LogSlate: Window 'Submit Files' being destroyed
+[2021.07.07-00.01.13:362][963]LogSourceControl: commit successful: [main be13628] AB
+[2021.07.07-00.01.13:435][963]SourceControl: [main be13628] AB
+[2021.07.07-00.01.13:435][963]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.07.07-00.01.13:435][963]SourceControl:  create mode 100644 Game/Content/TopDownBP/Blueprints/Testmast.uasset
+[2021.07.07-00.01.13:435][963]SourceControl:  delete mode 100644 Game/Content/TopDownBP/Blueprints/Transparent.uasset
+[2021.07.07-00.01.13:440][963]SourceControl: Commited [main be13628] AB.
+[2021.07.07-00.01.13:480][964]AssetCheck: New page: Asset Save: Testmast
+[2021.07.07-00.01.13:480][964]LogContentValidation: Display: Validating Material /Game/TopDownBP/Blueprints/Testmast.Testmast
+[2021.07.07-00.02.58:057][520]LogSourceControl: Writed 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/Diff/temp-b83488e001feb238e170a0ee3f7e63c2f24f9a24-TopDownController.uasset' (115951o)
+[2021.07.07-00.03.11:297][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.07.07-00.03.11:311][888]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TopDownExampleMap0942C60142BBE97CBAC64D8FDAB30061.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-00.03.11:317][888]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.025
+[2021.07.07-00.03.11:324][888]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.07-00.03.11:324][888]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.07-00.03.12:968][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.07.07-00.03.16:514][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.07.07-00.03.16:528][482]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TopDownExampleMap3E302D3D4BFBFD9317D42D9C08752E17.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-00.03.16:533][482]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.023
+[2021.07.07-00.03.16:544][482]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.07-00.03.16:544][482]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.07-00.03.18:503][716]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.07.07-00.03.21:947][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.07.07-00.03.26:951][601]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.07-00.03.28:514][736]Cmd: TRANSACTION UNDO
+[2021.07.07-00.03.28:514][736]LogEditorTransaction: Undo Pilot Actor
+[2021.07.07-00.03.28:727][739]Cmd: TRANSACTION UNDO
+[2021.07.07-00.03.28:727][739]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.07-00.03.31:035][972]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-00.03.31:136][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-00.03.31:183][972]PIE: New page: PIE session: TopDownExampleMap (Jul 6, 2021, 4:03:31 PM)
+[2021.07.07-00.03.31:217][972]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.07-00.03.31:235][972]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.07-00.03.31:290][972]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-00.03.31:385][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080751s)
+[2021.07.07-00.03.31:385][972]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-00.03.31:402][972]LogPlayLevel: PIE: World Init took: (0.016780s)
+[2021.07.07-00.03.31:426][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.135759s)
+[2021.07.07-00.03.31:431][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.07.07-00.03.31:452][972]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-00.03.31:452][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-00.03.31:452][972]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-00.03.31:452][972]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-00.03.31:455][972]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-00.03.31:455][972]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-00.03.31:462][972]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2021.07.07-00.03.31:463][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-00.03.31:463][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-00.03.31:463][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-00.03.31:463][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-00.03.31:463][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-00.03.31:463][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-00.03.31:474][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-00.03.31:474][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-00.03.31:474][972]LogInit: FAudioDevice initialized.
+[2021.07.07-00.03.31:474][972]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.07.07-00.03.31:488][972]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-00.03.31:729][972]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.07.06-20.03.31
+[2021.07.07-00.03.31:797][972]LogWorld: Bringing up level for play took: 0.094684
+[2021.07.07-00.03.31:832][972]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.07.07-00.03.32:266][972]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.07-00.03.32:392][972]PIE: Server logged in
+[2021.07.07-00.03.32:411][972]PIE: Play in editor total start time 1.357 seconds.
+[2021.07.07-00.03.42:097][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-00.03.42:097][ 48]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-00.03.42:097][ 48]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-00.03.42:097][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.03.42:152][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-00.03.42:201][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.03.42:226][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-00.03.42:226][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-00.03.42:227][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-00.03.42:254][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-00.03.42:267][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.07.07-00.03.42:302][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.07.07-00.03.48:976][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.07.07-00.03.49:595][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.07-00.03.49:600][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.07-00.03.49:600][861]PIE: New page: PIE session: TopDownExampleMap (Jul 6, 2021, 4:03:49 PM)
+[2021.07.07-00.03.49:628][861]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-00.03.49:636][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008043s)
+[2021.07.07-00.03.49:636][861]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.07.07-00.03.49:650][861]LogPlayLevel: PIE: World Init took: (0.014039s)
+[2021.07.07-00.03.49:650][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022224s)
+[2021.07.07-00.03.49:654][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.07.07-00.03.49:655][861]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.07-00.03.49:655][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.07-00.03.49:655][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.07-00.03.49:655][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.07-00.03.49:658][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.07-00.03.49:658][861]LogAudioMixer: Display: 1: FrontRight
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Flight Wireless Headset)
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.07-00.03.49:665][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.07-00.03.49:665][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.07-00.03.49:676][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.07-00.03.49:676][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.07-00.03.49:676][861]LogInit: FAudioDevice initialized.
+[2021.07.07-00.03.49:676][861]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2021.07.07-00.03.49:696][861]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.07.07-00.03.49:698][861]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.07.06-20.03.49
+[2021.07.07-00.03.49:698][861]LogWorld: Bringing up level for play took: 0.001064
+[2021.07.07-00.03.49:698][861]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.07.07-00.03.49:700][861]PIE: Server logged in
+[2021.07.07-00.03.49:701][861]PIE: Play in editor total start time 0.102 seconds.
+[2021.07.07-00.04.02:239][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-00.04.02:239][359]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.07.07-00.04.02:240][359]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-00.04.02:240][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.04.02:244][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.07-00.04.02:255][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.04.02:258][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.07-00.04.02:258][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-00.04.02:259][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.07-00.04.02:270][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.07-00.04.02:271][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.07.07-00.04.02:322][361]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.07.07-00.04.04:714][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.07.07-00.04.05:664][628]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.07.07-00.04.25:773][483]LogSlate: Window 'TopDownController' being destroyed
+[2021.07.07-00.04.25:778][483]LogSlate: Window 'TopDownController' being destroyed
+[2021.07.07-00.04.25:808][483]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-00.04.25:808][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.04.27:595][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2021.07.07-00.04.30:151][927]LogSlate: Window 'TopDownGameMode' being destroyed
+[2021.07.07-00.04.30:156][927]LogSlate: Window 'TopDownGameMode' being destroyed
+[2021.07.07-00.04.30:159][927]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.07-00.04.30:159][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.07-00.04.36:817][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.07.07-00.04.38:457][673]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.07-00.04.38:623][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.07.07-00.04.38:635][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.07-00.04.38:647][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.07-00.04.38:668][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.07.07-00.04.38:679][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.07-00.04.38:943][673]SourceControl: Error: Updated 0 paths from the index
+[2021.07.07-00.04.39:108][673]SourceControl: rm 'Game/Content/TopDownBP/Blueprints/Testmast.uasset'
+[2021.07.07-00.04.39:108][673]SourceControl: rm 'Game/Content/TopDownBP/Blueprints/pixil-frame-0.uasset'
+[2021.07.07-00.04.39:108][673]SourceControl: rm 'Game/Content/TopDownBP/Blueprints/pixil-frame-0_Mat.uasset'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Content: 'D:/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.54:386][396]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Andrew/Documents/Unreal Projects/gameThing'
+[2021.07.07-00.04.56:420][396]LogSlate: Window 'Save Content' being destroyed
+[2021.07.07-00.04.56:556][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.07.07-00.04.56:574][396]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TopDownExampleMap60089BE14C8459D54CA9F5B87D4433AA.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-00.04.56:581][396]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.037
+[2021.07.07-00.05.04:138][396]LogSlate: Window 'Submit Files' being destroyed
+[2021.07.07-00.05.04:895][396]LogSourceControl: commit successful: [main 7d5bb9b] Removed junk
+[2021.07.07-00.05.05:038][396]SourceControl: [main 7d5bb9b] Removed junk
+[2021.07.07-00.05.05:038][396]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2021.07.07-00.05.05:038][396]SourceControl:  delete mode 100644 Game/Content/TopDownBP/Blueprints/Testmast.uasset
+[2021.07.07-00.05.05:038][396]SourceControl:  delete mode 100644 Game/Content/TopDownBP/Blueprints/pixil-frame-0.uasset
+[2021.07.07-00.05.05:038][396]SourceControl:  delete mode 100644 Game/Content/TopDownBP/Blueprints/pixil-frame-0_Mat.uasset
+[2021.07.07-00.05.05:043][396]SourceControl: Commited [main 7d5bb9b] Removed junk.
+[2021.07.07-00.05.05:081][397]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.07.07-00.05.05:081][397]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.07.07-00.05.09:759][789]LogSlate: Window 'TopDownController - Blueprint Diff' being destroyed
+[2021.07.07-00.06.02:688][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.07.07-00.06.05:701][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2021.07.07-00.06.06:592][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.07.07-00.06.06:610][734]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TopDownExampleMapF9BCAFCE42426272D0329AA545FF8524.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.07.07-00.06.06:786][734]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Saved/TopDownExampleMap_BuiltData0729799D43C1900B17EB5283F22C82B0.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/gameThing/Game/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.07.07-00.06.06:793][734]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.07-00.06.06:793][734]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.07.07-00.06.06:793][734]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
